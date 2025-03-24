@@ -3,7 +3,7 @@
 
 ![Blog Preview Card](design/desktop-design.jpg)
 
-🔗 **Live Demo:** ([View the Project](https://chrisbk9674.github.io/blog-preview-card/)  
+🔗 **Live Demo:** ([View the Project](https://chrisbk9674.github.io/blog-preview-card/)  )
 
 ## 📌 Project Overview  
 This project is a **responsive Blog Preview Card** built as part of a **Frontend Mentor coding challenge**. The goal was to replicate a provided design **as accurately as possible** using **HTML and CSS**, ensuring a polished and functional UI.  
