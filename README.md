@@ -1,7 +1,7 @@
 
 # 🌟 Blog Preview Card – Frontend Mentor Challenge**  
 
-![Blog Preview Card](./images/screenshot.png)
+![Blog Preview Card](./design/desktop-design.jpg)
 
 🔗 **Live Demo:** ([View the Project](https://chrisbk9674.github.io/blog-preview-card/)  
 
